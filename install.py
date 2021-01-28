@@ -1,11 +1,12 @@
 # encoding: utf-8
 #愚かinstallation file
-import ai_detail
+from core.ai_detail import *
+from core.database import *
 import os
 import sys
 import time
-from database import get_name, get_age, get_uname, get_uage, get_idname, update_uname, update_uage, update_idname
-from ai_detail import name, age, developers, uname, uage, idname
+from core.database import get_name, get_age, get_uname, get_uage, get_idname, update_uname, update_uage, update_idname
+from core.ai_detail import name, age, developers, uname, uage, idname
 os.system("pip2 install termcolor")
 from termcolor import colored
 
