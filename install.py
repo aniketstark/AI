@@ -73,7 +73,7 @@ def installpkg():
 	printslow(colored("""INSTALLING PYTHON MODULES""","green"))
 	os.system("pip3 install lolcat beautifulsoup4 argparse requests pysocks mpv termcolor")
 	printslow(colored("""DOWNLOADING ASSETS and Server""","green"))
-	os.system("wget https://www.dropbox.com/s/xdrg1l49ddf0lo3/ai_asste.zip")
+	os.system("wget https://www.dropbox.com/s/xdrg1l49ddf0lo3/ai_asset.zip")
 	os.system("unzip ai_asset.zip")
 	os.system("rm -rf ai_asset.zip")
 	printslow(colored("""PLEASE INSTALL TERMUX API FROM PLAYSTORE\nIF ITS ALREADY INSTALL SO IGNORE THIS MESSAGE""","green"))
