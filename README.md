@@ -25,7 +25,7 @@ pkg install -y python python2 git
 
 [2] This command for if you didn't clone yet
 ```
-git clone 
+git clone https://github.com/aniketstark/AI
 ```
 
 [3]
