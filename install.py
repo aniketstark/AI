@@ -38,7 +38,7 @@ def fillup2():
 	update_uage(yourage)
 	ai_detail.uage = yourage
 	print(colored("""ano... your age is """ + yourage,"green"))
-	if int(ai_detail.uage) <= 2:
+	if int(ai_detail.uage) <= 5:
 		update_idname("ototo")
 		print(colored("""Your so much small than me """+ str(idname),"yellow"))
 		print(ai_detail.idname())
@@ -47,7 +47,7 @@ def fillup2():
 		os.system("echo clearing terminal in 15sec | lolcat -a -d 150")
 		os.system("clear")
 		sys.exit()
-	elif int(ai_detail.uage) > 2 and int(ai_detail.uage) < 25:
+	elif int(ai_detail.uage) > 5 and int(ai_detail.uage) < 25:
 		update_idname("Oni-Chan")
 		print(colored("""Your bigger than me """+ str(idname),"red"))
 		time.sleep(3)
