@@ -103,16 +103,14 @@ def information():
 		
 	 4. If you mess with her. so her bodyguard will punished
 	 you well so be carefull
-		
-	 5. I don't knos why the flick we add japanese in AI
 	 
-	 6. Sometime she express her feeling with using video
+	 5. Sometime she express her feeling with using video
 	 so don't ignore that
 		
-	 7. If something Wrong happend like you get punishment so
+	 6. If something Wrong happend like you get punishment so
 	 we are not responsible for that
 		
-	 8. Don't worry this AI still under work, we are trying
+	 7. Don't worry this AI still under work, we are trying
 	 to turn her into adult so be patience for that""","green"), colored("""
 	 =======================================================\n\n""","red"))
 	print(colored("""SO ARE YOU READY, FOR TAKING RESPONSIBLITY OF OUR AI""","green"))
