@@ -103,9 +103,9 @@ def process(query):
 		#angry and sad
 		return("chigauuu (no) i am "+ str(name) +", i am trying to improve myself to not\nbecome a bot")
 	elif reply == "aniket info":
-		return("gumene (sorry) i don't had lots of information about him \nbut he is my creator\nok")
+		return("gumene (sorry) i know about him few things \n when he was creating me i learn few \n things about him like he \n he watch lots of animes \n read alots of mangas and doujinshis \n now he is totally gone not for forever \n he just i dont knoe\nok")
 	elif reply == "sagiri sakamoto info":
-		return("gumene (sorry) i don't had lots of information about her \nbut she is my creator\nok")
+		return("gumene (sorry) i don't had lots of information about her \nbut she is reviver of aniket and my creator\nok")
 	elif reply == "manish info":
 		return("ato..?? dare (a.... who is that) i don't know him")
 	elif reply == "address":
